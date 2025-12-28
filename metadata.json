@@ -1,0 +1,7 @@
+{
+  "name": "VMC Citizen Connect",
+  "description": "An intelligent, secure, and citizen-friendly WhatsApp chatbot for Vadodara Municipal Corporation (VMC), assisting with property tax, complaints, and municipal queries in Gujarati, Hindi, and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
